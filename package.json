@@ -1,0 +1,29 @@
+{
+  "name": "imagetodata",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lucide-react": "^1.8.0",
+    "next": "^16.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tesseract.js": "^7.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@types/node": "^24.12.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "typescript": "~6.0.2"
+  }
+}
